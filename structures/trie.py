@@ -1,26 +1,30 @@
-class TrieNode:
+class NodoTrie:
+    """Nodo del árbol Trie para búsqueda por prefijos"""
     def __init__(self):
-        self.children = {}
-        self.finishes = False
+        self.hijos = {}
+        self.es_final = False
         self.ids_libros = set()
 
 class Trie:
+    """Árbol Trie para búsqueda eficiente de títulos por prefijo"""
     def __init__(self):
-        self.root = TrieNode()
+        self.raiz = NodoTrie()
 
-    def insert(self, titulo: str, id_libro: str):
-        node = self.root
-        for ch in titulo.lower():
-            if ch not in node.children:
-                node.children[ch] = TrieNode()
-            node = node.children[ch]
-            node.ids_libros.add(id_libro)
-        node.finishes = True
+    def insertar(self, titulo: str, id_libro: str):
+        """Inserta un título y su ID en el Trie"""
+        nodo = self.raiz
+        for caracter in titulo.lower():
+            if caracter not in nodo.hijos:
+                nodo.hijos[caracter] = NodoTrie()
+            nodo = nodo.hijos[caracter]
+            nodo.ids_libros.add(id_libro)
+        nodo.es_final = True
 
-    def search_prefix(self, prefijo: str):
-        node = self.root
-        for ch in prefijo.lower():
-            if ch not in node.children:
+    def buscar_prefijo(self, prefijo: str):
+        """Busca todos los libros que empiezan con el prefijo dado"""
+        nodo = self.raiz
+        for caracter in prefijo.lower():
+            if caracter not in nodo.hijos:
                 return set()
-            node = node.children[ch]
-        return node.ids_libros
+            nodo = nodo.hijos[caracter]
+        return nodo.ids_libros

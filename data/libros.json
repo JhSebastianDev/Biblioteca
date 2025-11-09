@@ -1,0 +1,482 @@
+[
+  {
+    "id_libro": "L001",
+    "titulo": "El Amor en los Tiempos del Cólera",
+    "autor": "Gabriel García Márquez",
+    "editorial": "Oveja Negra",
+    "anio": 1985,
+    "categoria": "Romance",
+    "copias_totales": 5,
+    "copias_disponibles": 5
+  },
+  {
+    "id_libro": "L002",
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "editorial": "Secker & Warburg",
+    "anio": 1949,
+    "categoria": "Distopía",
+    "copias_totales": 4,
+    "copias_disponibles": 4
+  },
+  {
+    "id_libro": "L003",
+    "titulo": "Rebelión en la Granja",
+    "autor": "George Orwell",
+    "editorial": "Secker & Warburg",
+    "anio": 1945,
+    "categoria": "Sátira",
+    "copias_totales": 5,
+    "copias_disponibles": 5
+  },
+  {
+    "id_libro": "L004",
+    "titulo": "Crónica de una Muerte Anunciada",
+    "autor": "Gabriel García Márquez",
+    "editorial": "La Oveja Negra",
+    "anio": 1981,
+    "categoria": "Novela",
+    "copias_totales": 3,
+    "copias_disponibles": 3
+  },
+  {
+    "id_libro": "L005",
+    "titulo": "La Metamorfosis",
+    "autor": "Franz Kafka",
+    "editorial": "Kurt Wolff Verlag",
+    "anio": 1915,
+    "categoria": "Filosofía",
+    "copias_totales": 4,
+    "copias_disponibles": 4
+  },
+  {
+    "id_libro": "L006",
+    "titulo": "El Principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "editorial": "Reynal & Hitchcock",
+    "anio": 1943,
+    "categoria": "Infantil",
+    "copias_totales": 6,
+    "copias_disponibles": 6
+  },
+  {
+    "id_libro": "L007",
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "editorial": "Francisco de Robles",
+    "anio": 1605,
+    "categoria": "Clásico",
+    "copias_totales": 5,
+    "copias_disponibles": 5
+  },
+  {
+    "id_libro": "L008",
+    "titulo": "Los Miserables",
+    "autor": "Victor Hugo",
+    "editorial": "A. Lacroix, Verboeckhoven & Cie.",
+    "anio": 1862,
+    "categoria": "Drama",
+    "copias_totales": 4,
+    "copias_disponibles": 4
+  },
+  {
+    "id_libro": "L009",
+    "titulo": "Orgullo y Prejuicio",
+    "autor": "Jane Austen",
+    "editorial": "T. Egerton",
+    "anio": 1813,
+    "categoria": "Romance",
+    "copias_totales": 5,
+    "copias_disponibles": 5
+  },
+  {
+    "id_libro": "L010",
+    "titulo": "El Retrato de Dorian Gray",
+    "autor": "Oscar Wilde",
+    "editorial": "Ward, Lock and Company",
+    "anio": 1890,
+    "categoria": "Filosofía",
+    "copias_totales": 3,
+    "copias_disponibles": 3
+  },
+  {
+    "id_libro": "L011",
+    "titulo": "El Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "editorial": "George Allen & Unwin",
+    "anio": 1937,
+    "categoria": "Fantasía",
+    "copias_totales": 7,
+    "copias_disponibles": 7
+  },
+  {
+    "id_libro": "L012",
+    "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+    "autor": "J.R.R. Tolkien",
+    "editorial": "George Allen & Unwin",
+    "anio": 1954,
+    "categoria": "Fantasía",
+    "copias_totales": 6,
+    "copias_disponibles": 6
+  },
+  {
+    "id_libro": "L013",
+    "titulo": "Harry Potter y la Piedra Filosofal",
+    "autor": "J.K. Rowling",
+    "editorial": "Bloomsbury",
+    "anio": 1997,
+    "categoria": "Fantasía",
+    "copias_totales": 8,
+    "copias_disponibles": 8
+  },
+  {
+    "id_libro": "L014",
+    "titulo": "Harry Potter y la Cámara Secreta",
+    "autor": "J.K. Rowling",
+    "editorial": "Bloomsbury",
+    "anio": 1998,
+    "categoria": "Fantasía",
+    "copias_totales": 7,
+    "copias_disponibles": 7
+  },
+  {
+    "id_libro": "L015",
+    "titulo": "Harry Potter y el Prisionero de Azkaban",
+    "autor": "J.K. Rowling",
+    "editorial": "Bloomsbury",
+    "anio": 1999,
+    "categoria": "Fantasía",
+    "copias_totales": 7,
+    "copias_disponibles": 7
+  },
+  {
+    "id_libro": "L016",
+    "titulo": "Los Juegos del Hambre",
+    "autor": "Suzanne Collins",
+    "editorial": "Scholastic",
+    "anio": 2008,
+    "categoria": "Acción",
+    "copias_totales": 6,
+    "copias_disponibles": 6
+  },
+  {
+    "id_libro": "L017",
+    "titulo": "En Llamas",
+    "autor": "Suzanne Collins",
+    "editorial": "Scholastic",
+    "anio": 2009,
+    "categoria": "Acción",
+    "copias_totales": 6,
+    "copias_disponibles": 6
+  },
+  {
+    "id_libro": "L018",
+    "titulo": "Sinsajo",
+    "autor": "Suzanne Collins",
+    "editorial": "Scholastic",
+    "anio": 2010,
+    "categoria": "Acción",
+    "copias_totales": 5,
+    "copias_disponibles": 5
+  },
+  {
+    "id_libro": "L019",
+    "titulo": "It",
+    "autor": "Stephen King",
+    "editorial": "Viking Press",
+    "anio": 1986,
+    "categoria": "Terror",
+    "copias_totales": 4,
+    "copias_disponibles": 4
+  },
+  {
+    "id_libro": "L020",
+    "titulo": "El Resplandor",
+    "autor": "Stephen King",
+    "editorial": "Doubleday",
+    "anio": 1977,
+    "categoria": "Terror",
+    "copias_totales": 4,
+    "copias_disponibles": 4
+  },
+  {
+    "id_libro": "L021",
+    "titulo": "Carrie",
+    "autor": "Stephen King",
+    "editorial": "Doubleday",
+    "anio": 1974,
+    "categoria": "Terror",
+    "copias_totales": 3,
+    "copias_disponibles": 3
+  },
+  {
+    "id_libro": "L022",
+    "titulo": "Misery",
+    "autor": "Stephen King",
+    "editorial": "Viking Press",
+    "anio": 1987,
+    "categoria": "Suspenso",
+    "copias_totales": 4,
+    "copias_disponibles": 4
+  },
+  {
+    "id_libro": "L023",
+    "titulo": "El Código Da Vinci",
+    "autor": "Dan Brown",
+    "editorial": "Doubleday",
+    "anio": 2003,
+    "categoria": "Misterio",
+    "copias_totales": 5,
+    "copias_disponibles": 5
+  },
+  {
+    "id_libro": "L024",
+    "titulo": "Ángeles y Demonios",
+    "autor": "Dan Brown",
+    "editorial": "Pocket Books",
+    "anio": 2000,
+    "categoria": "Misterio",
+    "copias_totales": 5,
+    "copias_disponibles": 5
+  },
+  {
+    "id_libro": "L025",
+    "titulo": "Inferno",
+    "autor": "Dan Brown",
+    "editorial": "Doubleday",
+    "anio": 2013,
+    "categoria": "Thriller",
+    "copias_totales": 4,
+    "copias_disponibles": 4
+  },
+  {
+    "id_libro": "L026",
+    "titulo": "El Nombre del Viento",
+    "autor": "Patrick Rothfuss",
+    "editorial": "DAW Books",
+    "anio": 2007,
+    "categoria": "Fantasía",
+    "copias_totales": 6,
+    "copias_disponibles": 6
+  },
+  {
+    "id_libro": "L027",
+    "titulo": "El Temor de un Hombre Sabio",
+    "autor": "Patrick Rothfuss",
+    "editorial": "DAW Books",
+    "anio": 2011,
+    "categoria": "Fantasía",
+    "copias_totales": 6,
+    "copias_disponibles": 6
+  },
+  {
+    "id_libro": "L028",
+    "titulo": "Juego de Tronos",
+    "autor": "George R.R. Martin",
+    "editorial": "Bantam Books",
+    "anio": 1996,
+    "categoria": "Fantasía",
+    "copias_totales": 8,
+    "copias_disponibles": 8
+  },
+  {
+    "id_libro": "L029",
+    "titulo": "Choque de Reyes",
+    "autor": "George R.R. Martin",
+    "editorial": "Bantam Books",
+    "anio": 1998,
+    "categoria": "Fantasía",
+    "copias_totales": 7,
+    "copias_disponibles": 7
+  },
+  {
+    "id_libro": "L030",
+    "titulo": "Tormenta de Espadas",
+    "autor": "George R.R. Martin",
+    "editorial": "Bantam Books",
+    "anio": 2000,
+    "categoria": "Fantasía",
+    "copias_totales": 7,
+    "copias_disponibles": 7
+  },
+  {
+    "id_libro": "L031",
+    "titulo": "Festín de Cuervos",
+    "autor": "George R.R. Martin",
+    "editorial": "Bantam Books",
+    "anio": 2005,
+    "categoria": "Fantasía",
+    "copias_totales": 6,
+    "copias_disponibles": 6
+  },
+  {
+    "id_libro": "L032",
+    "titulo": "Danza de Dragones",
+    "autor": "George R.R. Martin",
+    "editorial": "Bantam Books",
+    "anio": 2011,
+    "categoria": "Fantasía",
+    "copias_totales": 6,
+    "copias_disponibles": 6
+  },
+  {
+    "id_libro": "L033",
+    "titulo": "El Alquimista",
+    "autor": "Paulo Coelho",
+    "editorial": "HarperCollins",
+    "anio": 1988,
+    "categoria": "Filosofía",
+    "copias_totales": 5,
+    "copias_disponibles": 5
+  },
+  {
+    "id_libro": "L034",
+    "titulo": "Brida",
+    "autor": "Paulo Coelho",
+    "editorial": "HarperCollins",
+    "anio": 1990,
+    "categoria": "Espiritual",
+    "copias_totales": 4,
+    "copias_disponibles": 4
+  },
+  {
+    "id_libro": "L035",
+    "titulo": "Veronika Decide Morir",
+    "autor": "Paulo Coelho",
+    "editorial": "HarperCollins",
+    "anio": 1998,
+    "categoria": "Drama",
+    "copias_totales": 5,
+    "copias_disponibles": 5
+  },
+  {
+    "id_libro": "L036",
+    "titulo": "Rayuela",
+    "autor": "Julio Cortázar",
+    "editorial": "Sudamericana",
+    "anio": 1963,
+    "categoria": "Experimental",
+    "copias_totales": 4,
+    "copias_disponibles": 4
+  },
+  {
+    "id_libro": "L037",
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "editorial": "Ballantine Books",
+    "anio": 1953,
+    "categoria": "Distopía",
+    "copias_totales": 4,
+    "copias_disponibles": 4
+  },
+  {
+    "id_libro": "L038",
+    "titulo": "Matar a un Ruiseñor",
+    "autor": "Harper Lee",
+    "editorial": "J.B. Lippincott & Co.",
+    "anio": 1960,
+    "categoria": "Drama",
+    "copias_totales": 5,
+    "copias_disponibles": 5
+  },
+  {
+    "id_libro": "L039",
+    "titulo": "El Gran Gatsby",
+    "autor": "F. Scott Fitzgerald",
+    "editorial": "Charles Scribner’s Sons",
+    "anio": 1925,
+    "categoria": "Clásico",
+    "copias_totales": 4,
+    "copias_disponibles": 4
+  },
+  {
+    "id_libro": "L040",
+    "titulo": "La Sombra del Viento",
+    "autor": "Carlos Ruiz Zafón",
+    "editorial": "Planeta",
+    "anio": 2001,
+    "categoria": "Misterio",
+    "copias_totales": 6,
+    "copias_disponibles": 6
+  },
+  {
+    "id_libro": "L041",
+    "titulo": "Marina",
+    "autor": "Carlos Ruiz Zafón",
+    "editorial": "Planeta",
+    "anio": 1999,
+    "categoria": "Drama",
+    "copias_totales": 5,
+    "copias_disponibles": 5
+  },
+  {
+    "id_libro": "L042",
+    "titulo": "El Juego del Ángel",
+    "autor": "Carlos Ruiz Zafón",
+    "editorial": "Planeta",
+    "anio": 2008,
+    "categoria": "Misterio",
+    "copias_totales": 6,
+    "copias_disponibles": 6
+  },
+  {
+    "id_libro": "L043",
+    "titulo": "La Catedral del Mar",
+    "autor": "Ildefonso Falcones",
+    "editorial": "Grijalbo",
+    "anio": 2006,
+    "categoria": "Histórica",
+    "copias_totales": 5,
+    "copias_disponibles": 5
+  },
+  {
+    "id_libro": "L044",
+    "titulo": "Los Pilares de la Tierra",
+    "autor": "Ken Follett",
+    "editorial": "Macmillan",
+    "anio": 1989,
+    "categoria": "Histórica",
+    "copias_totales": 5,
+    "copias_disponibles": 5
+  },
+  {
+    "id_libro": "L045",
+    "titulo": "Un Mundo sin Fin",
+    "autor": "Ken Follett",
+    "editorial": "Macmillan",
+    "anio": 2007,
+    "categoria": "Histórica",
+    "copias_totales": 5,
+    "copias_disponibles": 5
+  },
+  {
+    "id_libro": "L046",
+    "titulo": "Ensayo sobre la Ceguera",
+    "autor": "José Saramago",
+    "editorial": "Caminho",
+    "anio": 1995,
+    "categoria": "Filosofía",
+    "copias_totales": 4,
+    "copias_disponibles": 4
+  },
+  {
+    "id_libro": "L047",
+    "titulo": "El Hombre en Busca de Sentido",
+    "autor": "Viktor Frankl",
+    "editorial": "Herder",
+    "anio": 1946,
+    "categoria": "Psicología",
+    "copias_totales": 3,
+    "copias_disponibles": 3
+  },
+  {
+    "id_libro": "L048",
+    "titulo": "La Casa de los Espíritus",
+    "autor": "Isabel Allende",
+    "editorial": "Plaza & Janés",
+    "anio": 1982,
+    "categoria": "Realismo Mágico",
+    "copias_totales": 5,
+    "copias_disponibles": 4
+  }
+]

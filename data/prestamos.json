@@ -1,0 +1,92 @@
+[
+  {
+    "id_prestamo": "ba1d4121",
+    "id_usuario": "u1",
+    "id_libro": "L100",
+    "fecha_prestamo": "2025-11-08T22:05:22.253464",
+    "fecha_limite": "2025-11-15T22:05:22.253464",
+    "fecha_devolucion": "2025-11-08T22:05:22.254066",
+    "estado": "devuelto"
+  },
+  {
+    "id_prestamo": "00ab2c10",
+    "id_usuario": "u_02b4c7",
+    "id_libro": "b_9ff8c9",
+    "fecha_prestamo": "2025-11-08T22:07:02.776885",
+    "fecha_limite": "2025-11-15T22:07:02.776885",
+    "fecha_devolucion": "2025-11-08T22:07:02.778206",
+    "estado": "devuelto"
+  },
+  {
+    "id_prestamo": "d5b1095a",
+    "id_usuario": "u_f28f95",
+    "id_libro": "b_f00e69",
+    "fecha_prestamo": "2025-11-08T22:30:40.463817",
+    "fecha_limite": "2025-11-15T22:30:40.463817",
+    "fecha_devolucion": "2025-11-08T22:30:40.464588",
+    "estado": "devuelto"
+  },
+  {
+    "id_prestamo": "265b1014",
+    "id_usuario": "u_c50d2f",
+    "id_libro": "b_26ddcc",
+    "fecha_prestamo": "2025-11-09T16:56:58.729164",
+    "fecha_limite": "2025-11-16T16:56:58.729164",
+    "fecha_devolucion": "2025-11-09T16:56:58.731464",
+    "estado": "devuelto"
+  },
+  {
+    "id_prestamo": "948b12b1",
+    "id_usuario": "u_273470",
+    "id_libro": "b_eaf0ea",
+    "fecha_prestamo": "2025-11-09T17:04:33.106827",
+    "fecha_limite": "2025-11-16T17:04:33.106827",
+    "fecha_devolucion": "2025-11-09T17:04:33.108361",
+    "estado": "devuelto"
+  },
+  {
+    "id_prestamo": "fc2ac3a7",
+    "id_usuario": "192476",
+    "id_libro": "L048",
+    "fecha_prestamo": "2025-11-09T17:19:06.351540",
+    "fecha_limite": "2025-11-16T17:19:06.351540",
+    "fecha_devolucion": null,
+    "estado": "activo"
+  },
+  {
+    "id_prestamo": "d67baaad",
+    "id_usuario": "u_613e05",
+    "id_libro": "b_b42221",
+    "fecha_prestamo": "2025-11-09T17:25:36.269004",
+    "fecha_limite": "2025-11-16T17:25:36.269004",
+    "fecha_devolucion": "2025-11-09T17:25:36.271947",
+    "estado": "devuelto"
+  },
+  {
+    "id_prestamo": "8465ef04",
+    "id_usuario": "u_fd5288",
+    "id_libro": "b_bc388f",
+    "fecha_prestamo": "2025-11-09T17:27:02.368123",
+    "fecha_limite": "2025-11-16T17:27:02.368123",
+    "fecha_devolucion": "2025-11-09T17:27:02.371087",
+    "estado": "devuelto"
+  },
+  {
+    "id_prestamo": "b65c9d2a",
+    "id_usuario": "u_dfbddc",
+    "id_libro": "b_410964",
+    "fecha_prestamo": "2025-11-09T17:28:29.206002",
+    "fecha_limite": "2025-11-16T17:28:29.206002",
+    "fecha_devolucion": "2025-11-09T17:28:29.210525",
+    "estado": "devuelto"
+  },
+  {
+    "id_prestamo": "fee5bcef",
+    "id_usuario": "u_6ce2ba",
+    "id_libro": "b_f0a3c9",
+    "fecha_prestamo": "2025-11-09T17:53:59.761655",
+    "fecha_limite": "2025-11-16T17:53:59.761655",
+    "fecha_devolucion": "2025-11-09T17:53:59.764720",
+    "estado": "devuelto"
+  }
+]

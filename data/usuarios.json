@@ -1,0 +1,102 @@
+[
+  {
+    "id_usuario": "192476",
+    "nombre": "Sebastian",
+    "email": "Jsebas@gmail.com",
+    "activo": true,
+    "historial": [
+      "fc2ac3a7"
+    ]
+  },
+  {
+    "id_usuario": "192483",
+    "nombre": "Natalia",
+    "email": "nataliaf@gmail.com",
+    "activo": true,
+    "historial": []
+  },
+  {
+    "id_usuario": "192484",
+    "nombre": "Felipe",
+    "email": "felipe_ortiz@gmail.com",
+    "activo": false,
+    "historial": []
+  },
+  {
+    "id_usuario": "192485",
+    "nombre": "Isabella",
+    "email": "isabellap@hotmail.com",
+    "activo": true,
+    "historial": []
+  },
+  {
+    "id_usuario": "192486",
+    "nombre": "Juan",
+    "email": "juanchocorrea@gmail.com",
+    "activo": true,
+    "historial": []
+  },
+  {
+    "id_usuario": "192487",
+    "nombre": "Sofía",
+    "email": "sofialopez@gmail.com",
+    "activo": true,
+    "historial": []
+  },
+  {
+    "id_usuario": "192488",
+    "nombre": "David",
+    "email": "davidrojas@gmail.com",
+    "activo": false,
+    "historial": []
+  },
+  {
+    "id_usuario": "192489",
+    "nombre": "Mariana",
+    "email": "mariana_castillo@gmail.com",
+    "activo": true,
+    "historial": []
+  },
+  {
+    "id_usuario": "192490",
+    "nombre": "Santiago",
+    "email": "santiagorv@gmail.com",
+    "activo": true,
+    "historial": []
+  },
+  {
+    "id_usuario": "192491",
+    "nombre": "Daniela",
+    "email": "danielaruiz@gmail.com",
+    "activo": true,
+    "historial": []
+  },
+  {
+    "id_usuario": "192492",
+    "nombre": "Mateo",
+    "email": "mateomartinez@gmail.com",
+    "activo": true,
+    "historial": []
+  },
+  {
+    "id_usuario": "192493",
+    "nombre": "Lucía",
+    "email": "luciamontoya@gmail.com",
+    "activo": false,
+    "historial": []
+  },
+  {
+    "id_usuario": "192494",
+    "nombre": "Tomás",
+    "email": "tomasgarcia@gmail.com",
+    "activo": true,
+    "historial": []
+  },
+  {
+    "id_usuario": "192495",
+    "nombre": "Paula",
+    "email": "paulapineda@gmail.com",
+    "activo": true,
+    "historial": []
+  }
+]
